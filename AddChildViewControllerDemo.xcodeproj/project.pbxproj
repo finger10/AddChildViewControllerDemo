@@ -15,6 +15,12 @@
 		E0C3D24E1FCD2DEE0039CEF1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E0C3D24D1FCD2DEE0039CEF1 /* main.m */; };
 		E0C3D2581FCD2DEE0039CEF1 /* AddChildViewControllerDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E0C3D2571FCD2DEE0039CEF1 /* AddChildViewControllerDemoTests.m */; };
 		E0C3D2631FCD2DEE0039CEF1 /* AddChildViewControllerDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = E0C3D2621FCD2DEE0039CEF1 /* AddChildViewControllerDemoUITests.m */; };
+		E0C3D2731FCD2EEB0039CEF1 /* BXHFirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E0C3D2711FCD2EEB0039CEF1 /* BXHFirstViewController.m */; };
+		E0C3D2741FCD2EEB0039CEF1 /* BXHFirstViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E0C3D2721FCD2EEB0039CEF1 /* BXHFirstViewController.xib */; };
+		E0C3D2781FCD2F0D0039CEF1 /* BXHSecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E0C3D2761FCD2F0D0039CEF1 /* BXHSecondViewController.m */; };
+		E0C3D2791FCD2F0D0039CEF1 /* BXHSecondViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E0C3D2771FCD2F0D0039CEF1 /* BXHSecondViewController.xib */; };
+		E0C3D27D1FCD2F1F0039CEF1 /* BXHThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E0C3D27B1FCD2F1F0039CEF1 /* BXHThirdViewController.m */; };
+		E0C3D27E1FCD2F1F0039CEF1 /* BXHThirdViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E0C3D27C1FCD2F1F0039CEF1 /* BXHThirdViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +57,15 @@
 		E0C3D25E1FCD2DEE0039CEF1 /* AddChildViewControllerDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AddChildViewControllerDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E0C3D2621FCD2DEE0039CEF1 /* AddChildViewControllerDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AddChildViewControllerDemoUITests.m; sourceTree = "<group>"; };
 		E0C3D2641FCD2DEE0039CEF1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E0C3D2701FCD2EEB0039CEF1 /* BXHFirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BXHFirstViewController.h; sourceTree = "<group>"; };
+		E0C3D2711FCD2EEB0039CEF1 /* BXHFirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BXHFirstViewController.m; sourceTree = "<group>"; };
+		E0C3D2721FCD2EEB0039CEF1 /* BXHFirstViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = BXHFirstViewController.xib; sourceTree = "<group>"; };
+		E0C3D2751FCD2F0D0039CEF1 /* BXHSecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BXHSecondViewController.h; sourceTree = "<group>"; };
+		E0C3D2761FCD2F0D0039CEF1 /* BXHSecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BXHSecondViewController.m; sourceTree = "<group>"; };
+		E0C3D2771FCD2F0D0039CEF1 /* BXHSecondViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = BXHSecondViewController.xib; sourceTree = "<group>"; };
+		E0C3D27A1FCD2F1F0039CEF1 /* BXHThirdViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BXHThirdViewController.h; sourceTree = "<group>"; };
+		E0C3D27B1FCD2F1F0039CEF1 /* BXHThirdViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BXHThirdViewController.m; sourceTree = "<group>"; };
+		E0C3D27C1FCD2F1F0039CEF1 /* BXHThirdViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = BXHThirdViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +120,15 @@
 				E0C3D23F1FCD2DEE0039CEF1 /* AppDelegate.m */,
 				E0C3D2411FCD2DEE0039CEF1 /* ViewController.h */,
 				E0C3D2421FCD2DEE0039CEF1 /* ViewController.m */,
+				E0C3D2701FCD2EEB0039CEF1 /* BXHFirstViewController.h */,
+				E0C3D2711FCD2EEB0039CEF1 /* BXHFirstViewController.m */,
+				E0C3D2721FCD2EEB0039CEF1 /* BXHFirstViewController.xib */,
+				E0C3D2751FCD2F0D0039CEF1 /* BXHSecondViewController.h */,
+				E0C3D2761FCD2F0D0039CEF1 /* BXHSecondViewController.m */,
+				E0C3D2771FCD2F0D0039CEF1 /* BXHSecondViewController.xib */,
+				E0C3D27A1FCD2F1F0039CEF1 /* BXHThirdViewController.h */,
+				E0C3D27B1FCD2F1F0039CEF1 /* BXHThirdViewController.m */,
+				E0C3D27C1FCD2F1F0039CEF1 /* BXHThirdViewController.xib */,
 				E0C3D2441FCD2DEE0039CEF1 /* Main.storyboard */,
 				E0C3D2471FCD2DEE0039CEF1 /* Assets.xcassets */,
 				E0C3D2491FCD2DEE0039CEF1 /* LaunchScreen.storyboard */,
@@ -238,7 +262,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E0C3D2791FCD2F0D0039CEF1 /* BXHSecondViewController.xib in Resources */,
+				E0C3D2741FCD2EEB0039CEF1 /* BXHFirstViewController.xib in Resources */,
 				E0C3D24B1FCD2DEE0039CEF1 /* LaunchScreen.storyboard in Resources */,
+				E0C3D27E1FCD2F1F0039CEF1 /* BXHThirdViewController.xib in Resources */,
 				E0C3D2481FCD2DEE0039CEF1 /* Assets.xcassets in Resources */,
 				E0C3D2461FCD2DEE0039CEF1 /* Main.storyboard in Resources */,
 			);
@@ -265,7 +292,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E0C3D2731FCD2EEB0039CEF1 /* BXHFirstViewController.m in Sources */,
+				E0C3D27D1FCD2F1F0039CEF1 /* BXHThirdViewController.m in Sources */,
 				E0C3D2431FCD2DEE0039CEF1 /* ViewController.m in Sources */,
+				E0C3D2781FCD2F0D0039CEF1 /* BXHSecondViewController.m in Sources */,
 				E0C3D24E1FCD2DEE0039CEF1 /* main.m in Sources */,
 				E0C3D2401FCD2DEE0039CEF1 /* AppDelegate.m in Sources */,
 			);
@@ -432,6 +462,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = AddChildViewControllerDemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = JayS.AddChildViewControllerDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -445,6 +476,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = AddChildViewControllerDemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = JayS.AddChildViewControllerDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
